@@ -1,4 +1,4 @@
-## Image_preprocessing-pathology_image
+## wsi_patch_preprocessing
 
 
 TCGA
