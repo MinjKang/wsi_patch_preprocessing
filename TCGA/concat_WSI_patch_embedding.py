@@ -6,7 +6,7 @@ import numpy as np
 # 경로 설정
 path_uni = "/workspace/minjungkang_990901/mjkang/2.Features/CRC/concat/uni1024_uni512"
 path_wsi = "/workspace/minjungkang_990901/mjkang/2.Features/WSI/CRC"
-output_dir = "/workspace/minjungkang_990901/mjkang/2.Features/STAD/concat/WSI_uni1024_uni512"
+output_dir = "/workspace/minjungkang_990901/mjkang/2.Features/CRC/concat/WSI_uni1024_uni512"
 os.makedirs(output_dir, exist_ok=True)
 
 def process_wsi_vector(wsi_vector_column):
